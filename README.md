@@ -53,4 +53,8 @@ var myquestions = [
   
   ## Example of use
   Once launched, complete the quiz selecting the radio buttons and hit submit:
+  
+  ![Quiz questions](img/Quiz-questions.png)
   then you should get the score and the corrections of the wrong answers:
+  
+  ![Quiz answers](img/Quiz-answers.png)
